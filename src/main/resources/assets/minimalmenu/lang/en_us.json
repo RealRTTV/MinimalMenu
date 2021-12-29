@@ -24,7 +24,7 @@
   "minimalmenu.config.option.title.dirtBackground": "Use Dirt Background",
   "minimalmenu.config.option.title.xOffset": "X Offset",
   "minimalmenu.config.option.title.yOffset": "Y Offset",
-  "minimalmenu.config.option.options.online": "Remove Online…",
+  "minimalmenu.config.option.options.realmsNotif": "Remove Realms Notification",
   "minimalmenu.config.option.pause.feedback": "Remove Feedback",
   "minimalmenu.config.option.pause.bugs": "Remove Report Bugs",
   "minimalmenu.config.option.pause.lanSingle": "Remove Open To Lan in Singleplayer",

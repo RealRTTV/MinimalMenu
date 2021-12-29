@@ -99,9 +99,9 @@ public class ConfigScreen {
                 .build());
 
         //Build options screen options
-        optionsScreen.addEntry(entryBuilder.startBooleanToggle(new TranslatableText("minimalmenu.config.option.options.online"), ConfigHandler.REMOVE_ONLINE)
+        optionsScreen.addEntry(entryBuilder.startBooleanToggle(new TranslatableText("minimalmenu.config.option.options.realmsNotif"), ConfigHandler.REMOVE_REALMS_NOTIF)
                 .setDefaultValue(false)
-                .setSaveConsumer(newValue -> ConfigHandler.REMOVE_ONLINE = newValue)
+                .setSaveConsumer(newValue -> ConfigHandler.REMOVE_REALMS_NOTIF = newValue)
                 .build());
 
         //Build pause screen options
